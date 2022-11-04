@@ -11,10 +11,11 @@
   - current programming languages of choice (roughly in order): 
     - f#
     - c++
-    - rust
     - clojure (f# took the functional spotlight for me recently)
     - java
     - prolog
+    - zig
+    - rust
   - exact real arithmetic
   - self-validating numerical methods such as:
     - Interval arithmetic
