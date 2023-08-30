@@ -26,6 +26,7 @@
     - c++
 
 I have [a twitter](https://twitter.com/Wire_Daemon) but I'm no longer very active there.
+
 I mostly post stuff about what I work on and other related things on [my cohost](https://cohost.org/wiredaemon).
 
 <!---
