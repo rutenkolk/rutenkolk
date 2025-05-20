@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristin Rutenkolk (sometimes wiredaemon on the internet)
   
-  I'm formerly a CS phd student a the Heinrich Heine University of Düsseldorf in Germany working at the [chair of Software Engineering and Programming Languages](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages) .
+  I'm formerly a CS phd student at Heinrich Heine University of Düsseldorf in Germany working at the [chair of Software Engineering and Programming Languages](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages) .
 
 - 👀 I’m interested among other things in: 
   - formal methods
