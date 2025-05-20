@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristin Rutenkolk (sometimes wiredaemon on the internet)
   
-  I'm currently a CS phd student a the Heinrich Heine University of Düsseldorf in Germany working at the [chair of Software Engineering and Programming Languages](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages) .
+  I'm formerly a CS phd student a the Heinrich Heine University of Düsseldorf in Germany working at the [chair of Software Engineering and Programming Languages](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages) .
 
 - 👀 I’m interested among other things in: 
   - formal methods
@@ -27,7 +27,7 @@
 
 I have [a twitter](https://twitter.com/Wire_Daemon) but I'm no longer very active there.
 
-I mostly post stuff about what I work on and other related things on [my cohost](https://cohost.org/wiredaemon).
+I'm doing a bit of open source programming here and there, mostly clojure at the time of writing.
 
 <!---
 rutenkolk/rutenkolk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
